@@ -11,7 +11,6 @@ class MainApp:
         self.root.overrideredirect(True)  # 彻底移除标题栏 [[5]][[8]]
         self.root.configure(background="#FDF5E6")  # 主背景色
         
-        # 自定义按钮样式（新增部分）
         style = ttk.Style()
         style.configure("Custom.TButton", background="#FDF5E6", foreground="black")  # 设置背景色和文字颜色
         style.map("Custom.TButton",
