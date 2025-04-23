@@ -1,4 +1,4 @@
-# Cyber Post-it Note
+# Cyber Sticky Note
 
 这是一个基于 `ttkbootstrap` 的简单任务管理应用程序，支持无标题栏窗口、自定义圆角背景（可扩展）、动态添加/删除行以及置顶功能。
 
